@@ -2,9 +2,9 @@
 <h3 font-size="20" align="center">Desarrollador frontend</h3>
 
 
-- 🌱Soy un desarrollador en formación con un fuerte interés en el desarrollo frontend, trabajando con tecnologías como. Me apasiona crear interfaces de usuario atractivas y funcionales, y busco oportunidades para aplicar mis conocimientos y seguir aprendiendo. Estoy comprometido con mejorar mis habilidades y trabajar en equipo para contribuir al desarrollo de soluciones de software de alta calidad. <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱Soy un desarrollador en formación con un fuerte interés en el desarrollo frontend, Estoy comprometido con mejorar mis habilidades y trabajar en equipo para contribuir al desarrollo de soluciones de software de alta calidad.
 
-Me encantaría colaborar en proyectos que:
+   <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 🚀 Me desafíen a mejorar mis habilidades en desarrollo web y diseño de interfaces.
 
